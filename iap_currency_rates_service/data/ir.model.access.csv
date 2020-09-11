@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_iap_cur_ex_request_user,Access IAP Currency Exchange Request Internal Users,model_iap_cur_ex_request,base.group_user,1,1,1,1
